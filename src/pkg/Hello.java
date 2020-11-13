@@ -7,6 +7,8 @@ public class Hello {
 		System.out.println("Hello World!");
 
 		System.out.println("Owner:masterブランチでの修正");
+
+		System.out.println("最新版");
 	}
 
 }
